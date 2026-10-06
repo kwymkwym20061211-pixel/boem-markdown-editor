@@ -382,5 +382,5 @@ Markdown Core
 
 この4点が設計の中心になる。
 
-なお、兄弟リポジトリのboem-conlang-stuioの開発体制を参考にする。
+なお、兄弟リポジトリのboem-conlang-studioの開発体制を参考にする。
 設計のクリアさなど。
