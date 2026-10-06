@@ -1,0 +1,18 @@
+# デフォルトでテキストファイルはLFとして扱う
+* text=auto eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.java eol=lf
+*.kt eol=lf
+*.json eol=lf
+*.js eol=lf
+*.ts eol=lf
+*.xml eol=lf
+# 画像や特定のバイナリは変換対象外（binary = -text -diff）
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.mp3 binary
+*.mp4 binary
+*.gif binary
+*.ico binary
